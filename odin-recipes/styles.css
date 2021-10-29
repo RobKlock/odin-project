@@ -1,0 +1,15 @@
+* {
+  border: 2px solid red;
+}
+
+h1 {
+  background-color: cornsilk;
+  font-size: 100px;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+ul {
+  font-size: 20px;
+  background-color: black;
+  color: white;
+}
